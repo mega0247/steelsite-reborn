@@ -12,3 +12,10 @@ Allow: /
 
 User-agent: *
 Allow: /
+
+Sitemap: https://manufacturerssteel.com/sitemap.xml
+
+# Manufacturers Steel - Premium Steel Service Center
+# https://manufacturerssteel.com
+# 34766 Highway 190, Springville, CA 93265
+# Phone: 840-242-7954
