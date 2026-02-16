@@ -84,8 +84,8 @@ const Contact = () => {
                       rel="noopener noreferrer"
                       className="text-foreground hover:text-primary transition-colors"
                     >
-                      34766 HIGHWAY 190<br />
-                      SPRINGVILLE, CA 93265
+                       31259 Wiegman Rd<br />
+                      Hayward, CA 94544
                     </a>
                   </div>
                 </div>
