@@ -103,7 +103,6 @@ const Contact = () => {
               </div>
 
              {/* Map Embed */}
-{/* Map Embed */}
 <div className="mt-8 rounded overflow-hidden shadow-lg h-64">
   <iframe
     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3231.6705134458175!2d-122.0675344847745!3d37.60829047974771!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fcb05ac1fbb6f%3A0xe66c4a68a8c5bb40!2s31259%20Wiegman%20Rd%2C%20Hayward%2C%20CA%2094544%2C%20USA!5e0!3m2!1sen!2sus!4v1700000000000"
