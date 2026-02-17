@@ -31,7 +31,7 @@ const Footer = () => {
                 <span>840-242-7954</span>
               </a>
               <a 
-                href="https://maps.google.com/?q=31259+Wiegman+Rd+Hayward+CA+94544" 
+                href="https://maps.google.com/?q=31259+Wiegman Rd+Hayward+CA+94544" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-start gap-3 footer-link"
@@ -48,8 +48,8 @@ const Footer = () => {
             <div className="flex items-start gap-3">
               <Clock className="w-5 h-5 text-primary flex-shrink-0 mt-0.5" />
               <div className="text-primary-foreground/80 text-sm">
-                <p>Monday – Thursday: 8:30 AM – 6:30 PM</p>
-                <p>Friday: 8:30 AM – 5:30 PM</p>
+                <p>Monday – Thursday: 8:30 AM – 5:00 PM</p>
+                <p>Friday: 8:00 AM – 4:30 PM</p>
               </div>
             </div>
           </div>
