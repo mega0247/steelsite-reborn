@@ -31,7 +31,7 @@ const Footer = () => {
                 <span>840-242-7954</span>
               </a>
               <a 
-                href="https://maps.google.com/?q=34766+HIGHWAY+190+SPRINGVILLE+CA+93265" 
+                href="https://maps.google.com/?q=31259+Wiegman Rd+Hayward+CA+94544" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-start gap-3 footer-link"
