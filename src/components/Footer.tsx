@@ -37,7 +37,7 @@ const Footer = () => {
                 className="flex items-start gap-3 footer-link"
               >
                 <MapPin className="w-5 h-5 text-primary flex-shrink-0 mt-0.5" />
-                <span>34766 HIGHWAY 190<br />SPRINGVILLE, CA 93265</span>
+                <span>31259 Wiegman Rd<br />Hayward, CA 94544</span>
               </a>
             </div>
           </div>
@@ -48,8 +48,8 @@ const Footer = () => {
             <div className="flex items-start gap-3">
               <Clock className="w-5 h-5 text-primary flex-shrink-0 mt-0.5" />
               <div className="text-primary-foreground/80 text-sm">
-                <p>Monday – Thursday: 6:30 AM – 3:30 PM</p>
-                <p>Friday: 6:00 AM – 2:00 PM</p>
+                <p>Monday – Thursday: 8:30 AM – 5:00 PM</p>
+                <p>Friday: 8:00 AM – 4:30 PM</p>
               </div>
             </div>
           </div>
