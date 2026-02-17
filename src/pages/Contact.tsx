@@ -102,20 +102,20 @@ const Contact = () => {
                 </div>
               </div>
 
-              {/* Map Embed */}
-              <div className="mt-8 rounded overflow-hidden shadow-lg h-64">
-                <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3223.8!2d-118.81!3d36.12!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80ea7f0000000001%3A0x0!2s34766%20Highway%20190%2C%20Springville%2C%20CA%2093265!5e0!3m2!1sen!2sus!4v1700000000000"
-                  width="100%"
-                  height="100%"
-                  style={{ border: 0 }}
-                  allowFullScreen
-                  loading="lazy"
-                  referrerPolicy="no-referrer-when-downgrade"
-                  title="Manufacturers Steel Location"
-                ></iframe>
-              </div>
-            </div>
+             {/* Map Embed */}
+<div className="mt-8 rounded overflow-hidden shadow-lg h-64">
+  <iframe
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3305.2!2d-122.0756!3d37.6596!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fcb6c4f123456%3A0xabcdef1234567890!2s31259+Wiegman+Rd%2C+Hayward%2C+CA+94544!5e0!3m2!1sen!2sus!4v1700000000000"
+    width="100%"
+    height="100%"
+    style={{ border: 0 }}
+    allowFullScreen
+    loading="lazy"
+    referrerPolicy="no-referrer-when-downgrade"
+    title="Manufacturers Steel Location"
+  ></iframe>
+</div>
+
 
             {/* Contact Form */}
             <div className="bg-card p-8 rounded shadow-lg">
