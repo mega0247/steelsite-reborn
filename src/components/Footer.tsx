@@ -1,9 +1,9 @@
 import { Link } from "react-router-dom";
-import { Phone, MapPin, Clock, Mail } from "lucide-react";
+import { Phone, MapPin, Clock } from "lucide-react";
 
 const Footer = () => {
   return (
-    <footer className="bg-steel-dark text-primary-foreground">
+    <footer className="bg-steel-dark text-steel-dark-foreground">
       <div className="container mx-auto px-4 py-12">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Company Info */}
@@ -17,7 +17,7 @@ const Footer = () => {
                 <span className="font-bold text-lg font-heading">STEEL</span>
               </div>
             </Link>
-            <p className="text-primary-foreground/80 text-sm leading-relaxed">
+            <p className="text-steel-dark-foreground/80 text-sm leading-relaxed">
               Your trusted family owned and operated steel service center. Serving clients with quality, competitive pricing, and exceptional customer service.
             </p>
           </div>
@@ -30,9 +30,9 @@ const Footer = () => {
                 <Phone className="w-5 h-5 text-primary" />
                 <span>840-242-7954</span>
               </a>
-              <a 
-                href="https://maps.google.com/?q=31259+Wiegman Rd+Hayward+CA+94544" 
-                target="_blank" 
+              <a
+                href="https://maps.google.com/?q=31259+Wiegman+Rd+Hayward+CA+94544"
+                target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-start gap-3 footer-link"
               >
@@ -47,7 +47,7 @@ const Footer = () => {
             <h3 className="font-bold text-lg mb-4 font-heading">Hours of Operation</h3>
             <div className="flex items-start gap-3">
               <Clock className="w-5 h-5 text-primary flex-shrink-0 mt-0.5" />
-              <div className="text-primary-foreground/80 text-sm">
+              <div className="text-steel-dark-foreground/80 text-sm">
                 <p>Monday – Thursday: 8:30 AM – 5:00 PM</p>
                 <p>Friday: 8:00 AM – 4:30 PM</p>
               </div>
@@ -69,8 +69,8 @@ const Footer = () => {
         </div>
 
         {/* Bottom Bar */}
-        <div className="border-t border-primary-foreground/20 mt-8 pt-8 text-center">
-          <p className="text-primary-foreground/60 text-sm">
+        <div className="border-t border-steel-dark-foreground/20 mt-8 pt-8 text-center">
+          <p className="text-steel-dark-foreground/60 text-sm">
             © {new Date().getFullYear()} Manufacturers Steel. All rights reserved.
           </p>
         </div>
