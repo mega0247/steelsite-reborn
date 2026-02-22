@@ -12,7 +12,7 @@ const About = () => {
       >
         <div className="container mx-auto px-4">
           <h1 className="text-4xl md:text-5xl font-bold text-primary-foreground text-center font-heading">
-            About Us
+            
           </h1>
         </div>
       </section>
